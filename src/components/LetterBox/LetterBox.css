@@ -1,0 +1,31 @@
+.box-grid {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.letterBox {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    margin: 20px;
+    width: 200px;
+    height: 250px;   
+}
+
+.letterBox img {
+    width: 200px;
+    height: 162px;
+    outline: none;
+}
+
+.letterBox button {
+    width: 100%;
+    font-size: 2em;
+    color:  rgb(248 244 244);
+    background-color: rgb(208 54 64);
+    padding: 0px;
+    margin: 0px;
+    border: none;
+}

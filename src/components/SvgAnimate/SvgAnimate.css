@@ -1,0 +1,18 @@
+.draw path {
+  stroke: rgb(9, 186, 217);
+  stroke-width: 10;
+  fill: none;
+}
+
+.svgAnimate {
+  scroll-snap-align: start;
+  height: 100vh;
+}
+
+path {
+  fill: none;
+  stroke: #fff;
+  stroke-width: 6;
+  stroke-dasharray: 1000;
+  stroke-dashoffset: 1000;
+}
