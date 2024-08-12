@@ -8,7 +8,9 @@ Indigenous scripts are in swift decline due to lack of learning material and eno
 ## Getting Started
 
 ```sh
-## NOTE: since we depend on a sepereate python backend (https://incubate-lipi.onrender.com/compare) AND ACCORDING TO RENDER'S FREE PLAN: a web app must be loaded for 50s by any client before it propperly loads / loads in real times
+## NOTE: since we depend on a sepereate python backend  
+## (https://incubate-lipi.onrender.com/compare) AND ACCORDING TO RENDER'S FREE PLAN:
+## a web app must be loaded for 50s by any client before it propperly loads / loads in real times
 
 npm run dev
 ```
