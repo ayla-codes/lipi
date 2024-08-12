@@ -16,4 +16,4 @@ npm run dev
 ```
 ## License
 
-Nex is licensed under the [MIT License](LICENSE.md). See the LICENSE.md file for details.
+लिपि is licensed under the [MIT License](LICENSE). See the LICENSE.md file for details.
